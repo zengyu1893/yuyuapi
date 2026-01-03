@@ -3,7 +3,7 @@
 这是一个集成了多种高质量 AI 模型的 ComfyUI 节点包，目前包含 **Nano Banana 2 (Gemini 3 Pro)** 图像生成节点、**Grok3 Video** 视频生成节点、**yuyu Gemini API** 多模态对话节点以及 **yuyu doubao4.5** 图像生成节点。
 
 ## ✨ 主要功能
-
+🎿玉玉API注册地址：👉玉玉API官方注册地址（https://yuli.host/register?aff=wBmm）👈
 ### 1. Ⓨ Nano Banana 2 (图像生成)
 *   **极速生成**：基于 Google Gemini 3 Pro Image Preview 模型。
 *   **多模态支持**：支持最多 **15张** 参考图输入 (image_1 ~ image_15)，实现复杂的图像编辑和风格迁移。
