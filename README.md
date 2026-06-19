@@ -2,6 +2,8 @@
 
 集成 GPT Image、Gemini、Doubao、Grok、Veo 多模型生图/对话/视频的 ComfyUI 自定义节点包。
 
+API 服务由 [玉玉API](https://yuli.host) 提供，支持直连。
+
 ## 节点
 
 | 节点 | 模型 | 功能 |
