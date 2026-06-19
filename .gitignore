@@ -2,3 +2,4 @@ config.json
 api_keys.yaml
 *.env
 __pycache__/
+debug.log
